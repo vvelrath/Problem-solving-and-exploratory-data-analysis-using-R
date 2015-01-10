@@ -17,7 +17,7 @@ also offers you a systematic approach to choosing among the many possible result
 
 We worked on a fairly large airport data set (around 1GB) for the year of 2006 and 2007. We ran statistics
 on this data to perform EDA using the steps mentioned in the Chapter 2 of the [Oreilly Doing Data Science Book](http://shop.oreilly.com/product/0636920028529.do)
-and prepared a report based on the EDA. Also we have provide the provenance for the results in the [Report]()
+and prepared a report based on the EDA. Also we have provide the provenance for the results in the [Report](https://github.com/vvelrath/Problem-solving-and-exploratory-data-analysis-using-R/blob/master/Report/Report.pdf)
 
 ### Evaluation
 
